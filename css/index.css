@@ -1,0 +1,8 @@
+.name {
+    position: absolute;
+    display: inline;
+    float: left;
+    width: 100px;
+    font-size: 16px;
+    color: yellow;
+}

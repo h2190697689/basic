@@ -1,0 +1,5 @@
+# 默认不检测node_modules
+/dist/
+/config/
+/build/
+/static/
